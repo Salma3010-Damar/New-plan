@@ -7,3 +7,4 @@ This is my new plan,
 
 So i dedicated to learn programming more intensive.
 Programming its such a beautiful and cool thing at the same time, that's why i start to code.
+For me it's nothing too late. Just start and you will reliaze what u doing!
