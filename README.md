@@ -6,3 +6,4 @@ This is my new plan,
 -I want to be a programmer
 
 So i dedicated to learn programming more intensive.
+Programming its such a beautiful and cool thing at the same time, thats why i start to code.
