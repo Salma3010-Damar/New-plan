@@ -4,3 +4,5 @@ This is my new plan,
 -I want to expressing my self with code
 -I want to learn phyton language
 -I want to be a programmer
+
+So i dedicated to learn programming more intensive.
